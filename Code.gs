@@ -6,7 +6,7 @@ function init() {
       .timeBased().everyMinutes(5).create();
   }  
 }
-
+//function for checking change
 function checkForChange() {
   
   //The string to search for
